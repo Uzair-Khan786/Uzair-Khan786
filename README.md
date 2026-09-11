@@ -10,6 +10,8 @@
 
 **🤖 AI/ML Engineer passionate about Artificial Intelligence and Machine Learning**
 
+**📊 B.Tech Student (Data Science and AI) at Integral University, Lucknow ; Currently holding a CGPA of 9.02**
+
 **💻 Strong interest in Backend Development and scalable applications**
 
 **🧠 Love solving problems using Data Structures & Algorithms**
