@@ -83,15 +83,15 @@
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=vscode,jupyter,git,github" /> </p>
 
-💙 VS Code
+**💙 VS Code**
 
-📓 Jupyter Notebook
+**📓 Jupyter Notebook**
 
-🔀 Git
+**🔀 Git**
 
-🐙 GitHub
+**🐙 GitHub**
 
-📊 GitHub Statistics
+**📊 GitHub Statistics**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Uzair-Khan786&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-Khan786&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
 
