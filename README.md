@@ -117,9 +117,9 @@
 ## 🤝 Connect With Me
 <p align="center"> <a href="https://github.com/Uzair-Khan786"> <img src="https://img.shields.io/badge/GitHub-Uzair--Khan786-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> &nbsp; <a href="mailto:uzairkhankakori@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"> 💬 <b>Open to collaboration, interesting projects, and opportunities in AI/ML & Software Engineering.</b> </p>
 
-📌 Featured Interests
+**📌 Featured Interests**
 
-🧠 Machine Learning
+**🧠 Machine Learning**
 
 🤖 Artificial Intelligence
 
