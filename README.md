@@ -100,10 +100,6 @@
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Uzair-Khan786&theme=tokyonight&hide_border=true" /> </p>
 
 
-## ⭐ GitHub Stars & Profile Stats
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uzair-Khan786&theme=tokyonight" width="100%" /> </p>
-
-
 ## 💡 What I'm Working on
 
 **🤖 Artificial Intelligence & Machine Learning**
