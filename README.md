@@ -121,9 +121,9 @@
 
 **🧠 Machine Learning**
 
-🤖 Artificial Intelligence
+**🤖 Artificial Intelligence**
 
-🐍 Python
+**🐍 Python**
 
 ⚡ REST APIs
 
