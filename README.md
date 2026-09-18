@@ -47,6 +47,18 @@
 <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
+### 🤖 GenAI & Agentic AI Frameworks & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LANGGRAPH-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CREWAI-FF6B35?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+</p>
+
 ### ⚙️ Backend APIs & Databases
 
 <p align="left">
