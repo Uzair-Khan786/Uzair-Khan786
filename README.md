@@ -121,9 +121,9 @@
 
 **🐍 Python**
 
-⚡ REST APIs
+**⚡ REST APIs**
 
-📊 Data Science
+**📊 Data Science**
 
 🔄 DevOps & CI/CD
 
