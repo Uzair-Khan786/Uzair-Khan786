@@ -137,9 +137,9 @@
 
 **📊 Data Science**
 
-🔄 DevOps & CI/CD
+**🔄 DevOps & CI/CD**
 
-🧩 Problem Solving
+**🧩 Problem Solving**
 
 ## 📈 My GitHub Journey
 
